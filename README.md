@@ -38,5 +38,3 @@ We divided both attributes (parch, sibSp) into the following categories:<br>
 
 The third category seemed to make sense to us because we thought it likely that smaller groups would get lost less often than larger ones and that smaller groups would have an advantage over larger ones in arguing who else should be allowed on a lifeboat (this is of course a heuristic).
 In fact, the various tests showed that a combination of the attributes {sex, pclass} provided the most reliable predictions resulting in a KaggleScore of 0.775%.
-
-Translated with www.DeepL.com/Translator (free version)
